@@ -10,7 +10,7 @@ About Me:
 
 📚 Currently, I'm using resources like freeCodeCamp and YouTube tutorials to learn. Let's grow together!
 
-connect with me:
+🖇️connect with me:
 
 Portfolio:https://sathvika0.github.io/PORTFOLIO/
 
