@@ -1,3 +1,5 @@
+About Me:
+
 👋 Hi! I'm Nistala Naga Sathvika, and I'm diving into the world of coding!
 
 🌱 I'm learning the basics of programming, like Python and JavaScript, to understand how software works.
